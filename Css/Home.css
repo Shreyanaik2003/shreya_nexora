@@ -407,6 +407,7 @@ section {
   background-color: var(--dark-alt);
   padding: 60px 20px;
   overflow-y: hidden;
+  color: white;
 }
 
 .row {
